@@ -1,0 +1,9 @@
+STEP 2
+Objective: Add and use the loaders and plugins features modifying our build code using a simple math operation example.
+
+TODOs
+1 - Add new js files (app.js, add.js, multiply.js): App.js should import the add.js and multiply.js,
+    multiply.js should import and use the add.js file. App.js should print add operation result and multiply operation result.
+2 - Check the generated code.
+3 - Add index html file to use our bundled js file.
+4 - Basic HMR.
